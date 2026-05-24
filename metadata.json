@@ -1,0 +1,6 @@
+{
+  "name": "Güvenli Notlar",
+  "description": "Şifre ve yüz tanıma/biyometrik doğrulama ile korunan, kategori bazlı etiketleme ve ses kaydı ekleme seçeneği sunan güvenli not defteri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
